@@ -1,0 +1,2 @@
+serviceClass: com.ntnu.client.GreetingService
+path: FC1481F9591BC5C923368B30738F89C8.gwt.rpc
